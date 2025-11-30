@@ -1,114 +1,127 @@
-<!-- HEADER BANNER -->
+
+<!--x axis divider-->
+![](/assets/images/horizontal-divider-gradient.gif)
+
+<div align="center">
+  
+![Banner](/assets/images/banner.png)
+
+![](https://komarev.com/ghpvc/?username=AmineBenAmara) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/AmineBenAmara?label=Followers) ![Stars](https://img.shields.io/github/stars/AmineBenAmara?label=Stars)
+
+</div>
+
+<!--x axis divider-->
+![](/assets/images/horizontal-divider-gradient.gif)
+
+<picture>
+<a href="https://github.com/AmineBenAmara.png" alt="Developer">
+<img src="https://images.weserv.nl/?url=https://github.com/AmineBenAmara.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
+</a>
+</picture>
+
+```js
+"use creativity";
+import { Person } from "tunisia";
+
+new Person({
+  name: "Amine Ben Amara",
+  title: "Computer Science Student & Developer",
+  email: "hi@amine.com",
+  website: "https://github.com/AmineBenAmara",
+  junior: true,
+}).introduce();
+```
+
+```cmd
+D:\lab\AmineBenAmara> node index.js
+Hi, my name is Amine Ben Amara, I'm a Junior Developer from Tunisia.
+```
+
+<div align="center">
+
+<!--x axis divider-->
+![](/assets/images/horizontal-divider-gradient.gif)
+
+<h3 align="center">✨My Portfolio Projects✨</h3>
+
+<a href="https://github.com/AmineBenAmara" alt="Portfolio Projects">
+<img src="https://github.com/AmineBenAmara.png" align="right">
+</a>
+
+<!--x axis divider-->
+![](/assets/images/horizontal-divider-gradient.gif)
+
+<!--START_SECTION:waka-->
+**I'm a Night Owl 🦉** 
+
+```text
+🌞 Morning                200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   8.50 % 
+🌆 Daytime                1000 commits        █████████░░░░░░░░░░░░░░░░   42.50 % 
+🌃 Evening                800 commits         ████████░░░░░░░░░░░░░░░░░   34.00 % 
+🌙 Night                  350 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+```
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Tunis
+
+💬 Programming Languages: 
+Python                   8 hrs 20 mins       ████████████████████░░░░░   70.00 % 
+C++                      2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Markdown                 1 hr 0 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.50 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.50 % 
+```
+
+ Last Updated on 01-12-2025 UTC
+<!--END_SECTION:waka-->
+
+</div>
+
+<!--x axis divider-->
+![](/assets/images/horizontal-divider-gradient.gif)
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
+  </ul>
+</div>
+
 <p align="center">
-  <img src="https://i.imgur.com/ZK7bB3H.png" width="80%">
+<a href="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,express,git,vscode,figma,tailwindcss,laravel,mysql,prisma,vercel&perline=6">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,express,git,vscode,figma,tailwindcss,laravel,mysql,prisma,vercel&perline=6" />
+</a>
 </p>
 
-<h1 align="center">🔒 Amine Ben Amara — SOC Analyst (Blue Team) </h1>
-<p align="center">
-  <i>"Every log tells a story. I just follow the trail."</i>
-</p>
+<!--x axis divider-->
+![](/assets/images/horizontal-divider-gradient.gif)
 
----
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center">
 
-## 🎥 **Trailer — Who Am I?**
-I'm an aspiring **SOC Analyst** passionate about threat detection, incident response, and building security automations that make attackers miserable.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aminebenamara)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aminebenamara)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/aminebenamara)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmineBenAmara)
 
-I create investigations, detections, dashboards, and scripts — all documented like a movie script so anyone can follow the storyline.
+</div>
 
----
+<!--x axis divider-->
+![](/assets/images/horizontal-divider-gradient.gif)
 
-## 🛰️ **Mission: Blue Team**
-<p align="center">
-  <img src="https://i.imgur.com/fkZIaC7.png" width="60%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmineBenAmara/AmineBenAmara/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmineBenAmara/AmineBenAmara/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AmineBenAmara/AmineBenAmara/output/github-snake.svg" />
+</picture>
 
-**I specialize in:**
-- 🔭 Threat detection (Splunk, Elastic, Sentinel)  
-- 🔍 Log analysis & event triage  
-- 🛡️ MITRE ATT&CK–mapped detections  
-- 🧪 Malware & phishing investigations  
-- ⚙️ Automation (Python, PowerShell)  
-- 🎛️ Building SOC-style dashboards & alerts  
+<!--x axis divider-->
+![](/assets/images/horizontal-divider-gradient.gif)
 
----
+<div align="center">
+    Made with ❤️ by <a href="https://github.com/AmineBenAmara" target="_blank">Amine Ben Amara</a>
+</div>
 
-# 🎬 **Season 1 — Featured Investigations**
-*(Your “main episodes” — your strongest work goes here)*
-
-### **📁 1. Brute Force Attack Investigation**
-📝 *Full report + Splunk search + MITRE mapping*  
-- Detected suspicious login failures → correlated with Event ID 4625  
-- Identified the successful compromise via Event ID 4624  
-- Root cause traced to exposed RDP endpoint
-
-👉 *Read the full report:*  
-**`incident-reports/brute-force-attack.md`**
-
----
-
-### **📁 2. Phishing Email Analysis**
-📧 *Analyzed malicious payload, decoded macro, extracted IOCs*  
-- Header analysis  
-- Attachment sandboxing  
-- URL reputation checks  
-- Timeline + remediation plan  
-
-👉 **`incident-reports/phishing-investigation.md`**
-
----
-
-### **📁 3. Suspicious PowerShell Activity**
-⚡ Detected encoded command execution  
-🛡️ Mapped to MITRE ATT&CK T1059 (PowerShell)  
-👉 **`detections/powershell-suspicious.md`**
-
----
-
-# 🧰 **SOC Toolkit (Labs + Scripts)**
-### **📂 Tools & Labs**
-- `scripts/ioc_extractor.py` → extract indicators from logs  
-- `scripts/powershell_decoder.ps1` → decode base64 commands  
-- `labs/sentinel-detection.md`  
-- `labs/elastic-process-monitoring.md`  
-
----
-
-# 🚨 **Detection Engineering Showcase**
-### My custom SOC detections:
-✔ Failed login correlation  
-✔ Suspicious process creation  
-✔ Beaconing behavior (C2 patterns)  
-✔ Abnormal outbound connections  
-✔ PowerShell exploitation  
-
-👉 folder: **`detections/`**
-
----
-
-# 🧠 **Knowledge Base (My Blue Team Wiki)**
-Ongoing notes on:
-- Windows Event IDs  
-- Linux logs & artifacts  
-- MITRE ATT&CK mappings  
-- IR playbooks  
-- Common attack patterns  
-
-👉 folder: **`notes/`**
-
----
-
-# 🎯 **Currently Working On**
-- 🟦 Splunk detections pack (10 rules)  
-- 🔥 TryHackMe Blue Team Path  
-- 📘 Studying for **CompTIA Security+**  
-- 🤖 Python automation for IOC enrichment  
-
----
-
-# 🎬 **Behind the Scenes — About Me**
-I love cyber security, breaking down attacks, and telling the story behind every alert.  
-My work focuses on **clarity, structure, and realism** — exactly what a SOC needs.
-
-📍 *Open to Remote SOC Analyst Roles*  
-📧 **Email:** your-email  
-🔗 **LinkedIn:** your link  
+<!--x axis divider-->
+![](/assets/images/horizontal-divider-gradient.gif)
