@@ -32,10 +32,9 @@
 
 Hi there! I'm **Amine Ben Amara**, a dedicated **SOC Analyst** and **Blue Team** enthusiast based in Tunisia 🇹🇳. I specialize in turning complex data into actionable defense strategies. My passion lies in securing digital environments, preventing breaches, and strengthening defensive postures.
 
-* I'm currently focused on **Threat Detection and Incident Response**, specializing in **SIEM systems** and **log analysis** to catch and stop security incidents in real-time.
-* I'm eager to collaborate on **Blue Team projects**, particularly those involving **network defense automation**, **vulnerability assessment tools**, and **real-world defensive strategies**.
-* Ask me about **Log Analysis, Network Security, SIEM Configuration (e.g., Splunk/ELK),** or any **Cybersecurity Blue Team** topic!
-* How to reach me: Check out the **Connect with Me** section below!
+I'm currently focused on **Threat Detection and Incident Response**, specializing in **SIEM systems** and **log analysis** to catch and stop security incidents in real-time.
+I'm eager to collaborate on **Blue Team projects**, particularly those involving **network defense automation**, **vulnerability assessment tools**, and **real-world defensive strategies**.
+How to reach me: Check out the **Connect with Me** section below!
 
 <br clear="left"/> 
 
@@ -82,7 +81,6 @@ Hi there! I'm **Amine Ben Amara**, a dedicated **SOC Analyst** and **Blue Team**
 
 <div align="center">
 
-<!--START_SECTION:waka-->
 **I am Nighty Person 🦉** 
 
 ```text
@@ -94,7 +92,7 @@ Hi there! I'm **Amine Ben Amara**, a dedicated **SOC Analyst** and **Blue Team**
 
 
  Last Updated on 01-12-2025 UTC
-<!--END_SECTION:waka-->
+
 
 </div>
 
