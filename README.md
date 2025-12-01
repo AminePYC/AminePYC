@@ -1,51 +1,89 @@
-
-<!--x axis divider-->
-![](/assets/animated-line-img.gif)
-
+<img src="assets/animated-line-img.gif" width="100%">
 <div align="center">
   
-![Banner](/assets/Github_banner.png)
+# ![Banner](assets/Githubb_Banner.gif)
 
-<div align="center">
-  <img src="https://i.imgur.com/lRWPp30.gif" width="650" alt="Cyberpunk Neon Divider">
+##
+  <img src="assets/tenor.gif" width="40">
+  <span style="color:#00eaff; font-weight:700;">
+    "Code shapes worlds. Curiosity rewrites them."
+  </span>
+  <img src="assets/tenor.gif" width="40">
 
-  <h2>
-    <img src="https://tenor.com/view/love-linz-liebe-linznews-news-gif-15350429148459561484" width="40">
-    <span style="color:#00eaff; font-weight:700;">
-      "Code shapes worlds. Curiosity rewrites them."
-    </span>
-    <img src="https://tenor.com/view/love-linz-liebe-linznews-news-gif-15350429148459561484" width="40">
-  </h2>
-
-  <img src="https://i.imgur.com/1Q9Z1fN.gif" width="650" alt="Cyberpunk Neon Divider">
 </div>
 
+---
 
-<!--x axis divider-->
-![](/assets/animated-line-img.gif)
+<img src="assets/animated-line-img.gif" width="100%">
+
+---
+
+<div align="center">
+    
+# 👋 About Me 👋
+
+</div>
 
 <picture>
 <a href="https://github.com/AminePY" alt="Developer">
-<img src="assets/fox.png" align="right" width="315">
+<img src="assets/fox.png" align="left" width="250">
 </a>
 </picture>
 
+Hi there! I'm **Amine Ben Amara**, a dedicated **SOC Analyst** and **Blue Team** enthusiast based in Tunisia 🇹🇳. I specialize in turning complex data into actionable defense strategies. My passion lies in securing digital environments, preventing breaches, and strengthening defensive postures.
+
+* I'm currently focused on **Threat Detection and Incident Response**, specializing in **SIEM systems** and **log analysis** to catch and stop security incidents in real-time.
+* I'm eager to collaborate on **Blue Team projects**, particularly those involving **network defense automation**, **vulnerability assessment tools**, and **real-world defensive strategies**.
+* Ask me about **Log Analysis, Network Security, SIEM Configuration (e.g., Splunk/ELK),** or any **Cybersecurity Blue Team** topic!
+* How to reach me: Check out the **Connect with Me** section below!
+
+<br clear="left"/> 
 
 <div align="center">
 
-<!--x axis divider-->
-
-<h3 align="center">✨My Portfolio Projects✨</h3>
+### ✨ My Portfolio Website ✨
 
 <a href="https://github.com/AminePYC" alt="Portfolio Projects">
-<img src="assets/My_website.png" align="right">
+<img src="assets/My_website.png" width="800">
 </a>
 
-<!--x axis divider-->
-![](/assets/animated-line-img.gif)
+</div>
+
+---
+
+<img src="assets/animated-line-img.gif" width="100%">
+
+---
+
+<div align="center">
+
+## 🧑‍💻 Frequently Used Tech 🧑‍💻
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel&perline=6" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=kali,bash,python,cpp,js&perline=6" /> 
+  <br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</p>
+
+---
+
+<img src="assets/animated-line-img.gif" width="100%">
+
+---
+
+<div align="center">
 
 <!--START_SECTION:waka-->
-**I'm a Night Owl 🦉** 
+**I am Nighty Person 🦉** 
 
 ```text
 🌞 Morning                200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   8.50 % 
@@ -60,37 +98,15 @@
 
 </div>
 
-<!--x axis divider-->
-![](/assets/animated-line-img.gif)
+---
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
-  </ul>
-</div>
+<img src="assets/animated-line-img.gif" width="100%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel&perline=6" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash&perline=6" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=unity,blender&perline=6" />
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-</p>
-
-
-<!--x axis divider-->
-![](/assets/animated-line-img.gif)
-
-<h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
+
+### 🤝 Connect with Me 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-ben-amara-539353246)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aminear001)
@@ -99,12 +115,12 @@
 
 </div>
 
+---
 
+<img src="assets/animated-line-img.gif" width="100%">
 
+---
 
 <div align="center">
-    Made with ❤️ by <a href="https://github.com/AmineBenAmara" target="_blank">Amine Ben Amara</a>
+    Made with ❤️ by <a href="https://github.com/AminePYC" target="_blank">Amine Ben Amara</a>
 </div>
-
-<!--x axis divider-->
-![](/assets/animated-line-img.gif)
