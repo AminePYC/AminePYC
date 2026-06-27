@@ -30,11 +30,13 @@
 </a>
 </picture>
 
-Hi there! I'm **Amine Ben Amara**, a dedicated **SOC Analyst** and **Blue Team** enthusiast based in Tunisia 🇹🇳. I specialize in turning complex data into actionable defense strategies. My passion lies in securing digital environments, preventing breaches, and strengthening defensive postures.
-
-I'm currently focused on **Threat Detection and Incident Response**, specializing in **SIEM systems** and **log analysis** to catch and stop security incidents in real-time.
-I'm eager to collaborate on **Blue Team projects**, particularly those involving **network defense automation**, **vulnerability assessment tools**, and **real-world defensive strategies**.
-How to reach me: Check out the **Connect with Me** section below!
+Hi there! I'm **Amine Ben Amara**, a cybersecurity graduate and **Blue Team / SOC Analyst** in training, based in Tunisia 🇹🇳. I'm building toward a career in **malware analysis** and **threat intelligence**, with a Software Engineering background that shapes how I think about defense. \
+**🎓 Certifications :** \
+ 🟡 **CompTIA Security+** — In Progress <br>
+ ⚪ **BTL1** (Blue Team Level 1) — Planned <br>
+ ⚪ **eJPT** (Junior Penetration Tester) — Planned <br>
+My focus right now: **SIEM analysis**, **log investigation**, and **malware behavioral analysis** in my home lab (REMnux + FlareVM), alongside **OSINT** — tracing indicators and building investigative methodology. \
+ Reach me via **Connect with Me** below!
 
 <br clear="left"/> 
 
