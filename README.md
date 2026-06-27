@@ -31,12 +31,12 @@
 </picture>
 
 Hi there! I'm **Amine Ben Amara**, a cybersecurity graduate and **Blue Team / SOC Analyst** in training, based in Tunisia 🇹🇳. I'm building toward a career in **malware analysis** and **threat intelligence**, with a Software Engineering background that shapes how I think about defense. \
-**🎓 Certifications :** \
- 🟡 **CompTIA Security+** — In Progress <br>
- ⚪ **BTL1** (Blue Team Level 1) — Planned <br>
- ⚪ **eJPT** (Junior Penetration Tester) — Planned <br>
+**★ Certifications Roadmap :** \
+🟩🟩🟨⬜⬜ **CompTIA Security+** — In Progress \
+⬜⬜⬜⬜⬜ **BTL1** (Blue Team Level 1) — Planned \
+⬜⬜⬜⬜⬜ **eJPT** (Junior Penetration Tester) — Planned \
 My focus right now: **SIEM analysis**, **log investigation**, and **malware behavioral analysis** in my home lab (REMnux + FlareVM), alongside **OSINT** — tracing indicators and building investigative methodology. \
- Reach me via **Connect with Me** below!
+★ Reach me via **Connect with Me** below!
 
 <br clear="left"/> 
 
