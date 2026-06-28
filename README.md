@@ -44,7 +44,7 @@ My focus right now: **SIEM analysis**, **log investigation**, and **malware beha
 
 ### ✨ My Portfolio Website ✨
 
-<a href="https://github.com/AminePYC" alt="Portfolio Projects">
+<a href="https://aminepyc.github.io/Portfolio-Website/" alt="Portfolio Projects">
 <img src="assets/My_website.png" width="800">
 </a>
 
