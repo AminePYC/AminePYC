@@ -6,7 +6,7 @@
 ##
   <img src="assets/tenor.gif" width="40">
   <span style="color:#00eaff; font-weight:700;">
-    "Code shapes worlds. Curiosity rewrites them."
+    "The only way. The Hacker Way"
   </span>
   <img src="assets/tenor.gif" width="40">
 
